@@ -1,0 +1,15 @@
+.Message {
+    color: teal;
+    width: 300px;
+    display: flex;
+    height: fit-content;
+    width: 100%;
+}
+
+.Message p {
+    margin: 0px;
+    width: fit-content;
+    background-color: rgb(236, 230, 230);
+    border: 1px solid black;
+    border-radius: 4px;
+}

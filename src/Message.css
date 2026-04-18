@@ -1,5 +1,4 @@
 .Message {
-    color: teal;
     width: 300px;
     display: flex;
     height: fit-content;
@@ -12,4 +11,5 @@
     background-color: rgb(236, 230, 230);
     border: 1px solid black;
     border-radius: 4px;
+    padding: 10px;
 }
